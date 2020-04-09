@@ -19,8 +19,6 @@ import java.util.List;
 
 public class Calculadora extends AppCompatActivity {
 
-    //Test push
-
     EditText edtNum1;
     EditText edtNum2;
     EditText edtResult;
@@ -39,7 +37,6 @@ public class Calculadora extends AppCompatActivity {
     ArrayAdapter<String> arrayAdapter;
 
     int operacao = -1;
-    int test = 0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
