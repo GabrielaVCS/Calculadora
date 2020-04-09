@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="div">divisao</string>
+    <string name="mul">multiplicacao</string>
+    <string name="sum">soma</string>
+    <string name="sub">subtracao</string>
+    <string name="validacaoNum1">É necessário preencher o primeiro numero</string>
+    <string name="validacaoNum2Igual0">O segundo numero não pode ser 0</string>
+    <string name="validacaoNums">É necessário preencher os dois numeros</string>
+    <string name="validacaoOperacao">É necessário selecionar uma operação</string>
+</resources>
