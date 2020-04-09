@@ -39,6 +39,7 @@ public class Calculadora extends AppCompatActivity {
     ArrayAdapter<String> arrayAdapter;
 
     int operacao = -1;
+    int test = 0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
